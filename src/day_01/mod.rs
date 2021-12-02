@@ -21,10 +21,10 @@ fn second_puzzle() -> u32 {
 
 #[test]
 fn test_first_puzzle() {
-    println!("Day 1: {}", first_puzzle())
+    println!("Day 1 (1): {}", first_puzzle())
 }
 
 #[test]
 fn test_second_puzzle() {
-    println!("Day 2: {}", second_puzzle());
+    println!("Day 1 (2): {}", second_puzzle());
 }
